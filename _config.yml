@@ -84,13 +84,13 @@ author_project_details:
                 project_url: https://www.ion.itau/
                 visibility: true
               - project_thumbnail: image.png
-                project_title: Carnidals - ENVVIO
-                project_description: Uma solução de fácil uso para gerenciamento de viagens corporativas.
+                project_title: Carnidals – Sistema de Viagens Corporativas
+                project_description: Desenvolvimento de plataforma para gestão de viagens corporativas, funcionando como um “Decolar” para empresas. Sistema completo com emissão de passagens, reservas e controle de viagens. Backend em .NET MVC, frontend com jQuery, HTML5 e CSS3, integração via APIs REST e banco SQL Server.
                 project_url: https://www.envvio.com/pt/cardinals/
                 visibility: true
               - project_thumbnail: secretary.png
-                project_title: SofIA Secretária
-                project_description: Secretária virtual de atendimento para clínicas e comercios.
+                project_title: SofIA Secretária – Automação de Agendamentos com IA
+                project_description: Secretária eletrônica inteligente desenvolvida para clínicas, barbearias e pequenos negócios. Gerencia agendamentos, confirmações e lembretes via WhatsApp, com integração ao Google Calendar e suporte a IA generativa. Projeto desenvolvido em Node.js, com containers Docker, Redis, WhatsAppWeb.js e integração com a Gemini AI API. O maior desafio foi construir prompts eficientes e selecionar o modelo de IA ideal para simular uma secretária humana com respostas naturais.
                 project_url: /secretaria
                 visibility: true
 
