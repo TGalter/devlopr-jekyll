@@ -79,8 +79,8 @@ author_education_details:
 # Projects
 author_project_details:
               - project_thumbnail: ion.png
-                project_title: ÍON App
-                project_description: Aplicativo de investimentos do Itaú.
+                project_title: ION – Aplicativo de Investimentos (Itaú)
+                project_description: Desenvolvimento backend para o app de investimentos do banco Itaú. Atuando na construção de APIs escaláveis, arquitetura serverless e integrações com múltiplos sistemas internos do banco. Foco em resolver desafios de latência, garantindo alta performance e resiliência. Stack composta por AWS (Lambda, API Gateway, Fargate, CloudWatch), .NET Core, Redis, Terraform e Datadog.
                 project_url: https://www.ion.itau/
                 visibility: true
               - project_thumbnail: image.png
