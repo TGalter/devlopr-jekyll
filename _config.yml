@@ -1,5 +1,5 @@
 title: Thales Galter
-subtitle: Portifólios e Currículos
+subtitle: Desenvolvedor Backend | C# | AWS | Node.js
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -18,11 +18,12 @@ urls:
 
 author_logo: foto.jpg
 author: Thales Galter
-author_bio: Olá, me chamo Thales Galter. Sou desenvolvedor backend com mais de 15 anos de experiência, com foco em .NET e AWS. Passei os últimos 10 anos no Itaú como tech lead, liderando equipes, definindo arquitetura e entregando projetos de alta escala. Atualmente, estou atuando como autônomo e acabei de entregar um projeto em Node.js com integração entre WhatsApp e a Gemini API, voltado para automação com IA.
+author_bio: Sou desenvolvedor backend especializado em .NET e AWS, com mais de 15 anos de experiência em desenvolvimento de sistemas escaláveis, arquitetura serverless e integrações robustas. Tenho atuação sólida em ambientes financeiros e também em soluções envolvendo mensageria, APIs e automações com IA.
 author_email: "thales.galter@gmail.com"
 author_location: Caçapava, SP
 author_website_url: "https://www.linkedin.com/in/thales-galter/"
 typewrite-text: Desenvolvedor de Software | .Net Core | AWS | Nodejs | Angular | HTML5 | Splunk | SQL Server | Docker | CSS | JavaScript | Redis | REST API | Microservices | CI/CD | Agile/Scrum | TDD/BDD | Git/GitHub
+typewrite-text2: Backend robusto, arquitetura cloud e integrações inteligentes
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 
