@@ -25,41 +25,72 @@ author_website_url: "https://www.linkedin.com/in/thales-galter/"
 typewrite-text: Desenvolvedor de Software | .Net Core | AWS | Nodejs | Angular | HTML5 | Splunk | SQL Server | Docker | CSS | JavaScript | Redis | REST API | Microservices | CI/CD | Agile/Scrum | TDD/BDD | Git/GitHub
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
+
+#Certificates
+certificates:
+            - company_name: AWS Certified Solutions Architect – Associate
+              company_logo: aws1.png
+              company_url: https://www.credly.com/badges/42c1cbec-7b57-49fd-85ad-90ee1e749fb4/public_url
+              description: Os profissionais que obtêm esta certificação possuem um conhecimento abrangente dos serviços e tecnologias AWS. Eles demonstraram a capacidade de criar soluções seguras e robustas usando princípios de design arquitetônico baseados nos requisitos do cliente. Os detentores deste selo são capazes de projetar estrategicamente sistemas distribuídos bem arquitetados, que são escaláveis, resilientes, eficientes e tolerantes a falhas.
+              visibility: true
+            - company_name: Exam 483 Programming in C#
+              company_logo: m.png
+              company_url: https://www.credly.com/badges/dd7e66e9-4e95-4d29-a9b9-1841ab7d00f0/linked_i
+              description: A aprovação no Exame 483- Programação em C# valida a capacidade do candidato de gerenciar o fluxo do programa, criar e usar tipos, depurar aplicativos e implementar segurança, bem como implementar acesso a dados.
+              visibility: true
+
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Itaú Unibanco
+              company_logo: itau.png
+              company_url: https://www.itau.com.br/
+              designation: Tech Lead
+              description: Vários projetos de alta escala, com foco em arquitetura e liderança de equipes.
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Sofhar
+              company_logo: sofhar_logo.jpg
+              company_url: https://www.linkedin.com/company/sofhar/
+              designation: Desenvolvedor Full Stack
+              description:  Essa é a SOFHAR. Comprometida em entregar as melhores soluções de Tecnologia da Informação e Comunicação para empresa públicas e privadas.
+              visibility: true
+            - company_name: G&P
+              company_logo: gp.png
+              company_url: https://www.gpnet.com.br/
+              designation: Desenvolvedor Full Stack
+              description: A G&P é uma empresa que atua há 35 anos no setor de Tecnologia da Informação e estamos presentes nas principais capitais do Brasil.
+              visibility: true
+            - company_name: ENVVIO
+              company_logo: envvio.png
+              company_url: https://www.envvio.com/pt/inicio/
+              designation: Desenvolvedor Full Stack
+              description: Envvio cria produtos e soluções de internet que aproximam empresas de seus clientes de forma otimizada e interativa.
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: ibta.png
+                college_name: Veris IBTA
+                college_url: https://pt.wikipedia.org/wiki/Instituto_Brasileiro_de_Tecnologia_Avan%C3%A7ada
+                college_degree: Sistemas
+                description: Graduação em tecnoligia da informação.
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: ion.png
+                project_title: ÍON App
+                project_description: Aplicativo de investimentos do Itaú.
+                project_url: https://www.ion.itau/
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: image.png
+                project_title: Carnidals - ENVVIO
+                project_description: Uma solução de fácil uso para gerenciamento de viagens corporativas.
+                project_url: https://www.envvio.com/pt/cardinals/
+                visibility: true
+              - project_thumbnail: secretary.png
+                project_title: SofIA Secretária
+                project_description: Secretária virtual de atendimento para clínicas e comercios.
+                project_url: /secretaria
                 visibility: true
 
 # social links
@@ -102,6 +133,7 @@ permalink: pretty
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
+show_author_certificates: true
 
 # pagination of posts
 paginate: 4
