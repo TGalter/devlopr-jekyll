@@ -16,7 +16,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: FOto.png
+author_logo: foto.jpg
 author: Thales Galter
 author_bio: Olá, me chamo Thales Galter. Sou desenvolvedor backend com mais de 15 anos de experiência, com foco em .NET e AWS. Passei os últimos 10 anos no Itaú como tech lead, liderando equipes, definindo arquitetura e entregando projetos de alta escala. Atualmente, estou atuando como autônomo e acabei de entregar um projeto em Node.js com integração entre WhatsApp e a Gemini API, voltado para automação com IA.
 author_email: "thales.galter@gmail.com"
