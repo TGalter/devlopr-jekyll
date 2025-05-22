@@ -16,7 +16,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: foto.jpg
+author_logo: tt.png
 author: Thales Galter
 author_bio: Sou desenvolvedor backend com mais de 15 anos de experiência na construção de sistemas escaláveis, robustos e de alta performance. Atuo com .NET, AWS e Node.js, além de ter forte domínio em arquitetura serverless, microsserviços, mensageria e automações com inteligência artificial. Tenho uma carreira sólida em ambientes de alta criticidade, como o mercado financeiro, onde atuei por anos no desenvolvimento de soluções para o banco Itaú. Meu foco é entregar soluções que sejam eficientes, seguras e sustentáveis tecnicamente, sempre buscando alinhamento entre negócio e tecnologia.
 author_email: "thales.galter@gmail.com"
