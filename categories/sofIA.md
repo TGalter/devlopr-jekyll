@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SofIA
-permalink: /blog/categories/sofIA
+permalink: /blog/categories/sofIA/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
