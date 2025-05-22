@@ -1,4 +1,16 @@
 # Add Authors here
+tgalter:
+   name: Thales Galter
+   username: tgalter
+   site: https://tgalter.github.io/
+   avatar: tgalter.png
+   bio: "Oi. sou Thales Galter, desenvolvedor de software."
+   email: thales.galter@gmail.com
+   social:
+      - title: "github"
+        url: "https://github.com/tgalter"
+      - title: "linkedin"
+        url: "https://www.linkedin.com/in/thales-galter"
 johndoe:
    name: John Doe
    username: johndoe
