@@ -94,6 +94,11 @@ author_project_details:
                 project_description: Secretária eletrônica inteligente desenvolvida para clínicas, barbearias e pequenos negócios. Gerencia agendamentos, confirmações e lembretes via WhatsApp, com integração ao Google Calendar e suporte a IA generativa. Projeto desenvolvido em Node.js, com containers Docker, Redis, WhatsAppWeb.js e integração com a Gemini AI API. O maior desafio foi construir prompts eficientes e selecionar o modelo de IA ideal para simular uma secretária humana com respostas naturais.
                 project_url: /blog/categories/sofIA
                 visibility: true
+              - project_thumbnail: CQRS.jpg
+                project_title: CQRS Template – Padrão CQRS para .NET
+                project_description: Este projeto é um template, construída com uma arquitetura CQRS (Command Query Responsibility Segregation).
+                project_url: /blog/categories/cqrs
+                visibility: true
 
 # social links
 #twitter_username: xplor4r
